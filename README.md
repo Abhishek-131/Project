@@ -14,10 +14,15 @@ Customers can track the status of their orders.
 ## Delivery Management: 
 The system provides tools for managing deliveries, including assigning orders to delivery personnel.
 ## Admin Dashboard: 
-An admin dashboard allows for managing menus, orders, and user accounts.
+### An admin dashboard allows for managing menus, orders, and user accounts.
 # Technologies Used
-## Frontend: React.js, JavaScript, CSS
-## Backend: Node.js, Express.js
-## Database: MongoDB
-## Authentication: JSON Web Tokens (JWT)
-## Payment Gateway: Stripe
+## Frontend: 
+### React.js, JavaScript, CSS
+## Backend: 
+### Node.js, Express.js
+## Database: 
+### MongoDB
+## Authentication: 
+### JSON Web Tokens (JWT)
+## Payment Gateway: 
+### Stripe
