@@ -5,10 +5,10 @@
 
 ## Table of Content 
 
---[Key Features](#keyfeatures)
---[Admin Dashboard](#admindashboard)
---[Technology](#technology)
-# Key Features
+- [Key Features](#KeyFeatures)
+- [Admin Dashboard](#AdminDashboard)
+- [Technology](#technology)
+# KeyFeatures
 
 1. User Authentication: 
    Users can create accounts, log in, and log out using JWT-based authentication.
@@ -21,10 +21,10 @@ Customers can track the status of their orders.
 5. Delivery Management: 
 The system provides tools for managing deliveries, including assigning orders to delivery personnel.
 
-## Admin Dashboard: 
+## AdminDashboard: 
 ### An admin dashboard allows for managing menus, orders, and user accounts.
 
-# Technologies Used
+# Technologies 
 ## Frontend: 
  ***React.js, JavaScript, CSS
 ## Backend: 
