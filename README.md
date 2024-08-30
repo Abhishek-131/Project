@@ -7,7 +7,7 @@
 
 - [Key Features](#KeyFeatures)
 - [Admin Dashboard](#AdminDashboard)
-- [Technologies Used](#technologies-user)
+- [Technologies Used](#technologies-used)
 # KeyFeatures
 
 1. User Authentication: 
