@@ -7,7 +7,7 @@
 
 - [Key Features](#KeyFeatures)
 - [Admin Dashboard](#AdminDashboard)
-- [Technology](#Technologies)
+- [Technology](#technologies-user)
 # KeyFeatures
 
 1. User Authentication: 
@@ -24,7 +24,7 @@ The system provides tools for managing deliveries, including assigning orders to
 ## AdminDashboard: 
 ### An admin dashboard allows for managing menus, orders, and user accounts.
 
-# Technologies 
+# Technologies Used
 ## Frontend: 
  ***React.js, JavaScript, CSS
 ## Backend: 
