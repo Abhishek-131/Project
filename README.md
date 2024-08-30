@@ -1,10 +1,10 @@
-# Project Overview
- This project, Tomato Food Delivery System, is a web application built using React.js for the frontend, Node.js and Express.js for the backend, and MongoDB for the database. 
+# #Project Overview
+ ### This project, Tomato Food Delivery System, is a web application built using React.js for the frontend, Node.js and Express.js for the backend, and MongoDB for the database. 
  It leverages JSON Web Tokens (JWT) for authentication and Stripe for payment processing.
 
 # Key Features
 ## User Authentication: 
-Users can create accounts, log in, and log out using JWT-based authentication.
+   Users can create accounts, log in, and log out using JWT-based authentication.
 ## Menu and Ordering: 
 Customers can browse a menu of food items, add items to their cart, and place orders.
 ## Payment Processing: 
