@@ -26,9 +26,9 @@ The system provides tools for managing deliveries, including assigning orders to
 
 # Technologies Used
 ## Frontend: 
- -- React.js, JavaScript, CSS
+ - [React.js, JavaScript, CSS]
 ## Backend: 
--- Node.js, Express.js
+- Node.js, Express.js
 ## Database: 
 -- MongoDB
 ## Authentication: 
