@@ -10,15 +10,15 @@
 - [Technologies Used](#technologies-used)
 # KeyFeatures
 
-1. User Authentication: 
+1. ### User Authentication: 
    Users can create accounts, log in, and log out using JWT-based authentication.
-2. Menu and Ordering: 
+2. ### Menu and Ordering: 
 Customers can browse a menu of food items, add items to their cart, and place orders.
-3. Payment Processing: 
+3. ### Payment Processing: 
 Secure payments are handled through the Stripe payment gateway.
-4. Order Tracking: 
+4. ### Order Tracking: 
 Customers can track the status of their orders.
-5. Delivery Management: 
+5. ### Delivery Management: 
 The system provides tools for managing deliveries, including assigning orders to delivery personnel.
 
 ## AdminDashboard: 
@@ -26,12 +26,12 @@ The system provides tools for managing deliveries, including assigning orders to
 
 # Technologies Used
 ## Frontend: 
- ***React.js, JavaScript, CSS
+ -- React.js, JavaScript, CSS
 ## Backend: 
-***Node.js, Express.js
+-- Node.js, Express.js
 ## Database: 
-*** MongoDB
+-- MongoDB
 ## Authentication: 
-### JSON Web Tokens (JWT)
+-- JSON Web Tokens (JWT)
 ## Payment Gateway: 
-### Stripe
+-- Stripe
